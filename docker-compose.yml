@@ -28,6 +28,7 @@ services:
     ports:
       - "3004:3000"
       - "8084:8080"
+      - "1234:1234"
     working_dir: /usr/src/app
     volumes:
       - ./:/usr/src/app
