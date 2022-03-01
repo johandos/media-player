@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Javascript media player",
   "license": "MIT",
-  "author": "Richard B. Kaufman López <richardbkaufman@gmail.com>",
+  "author": "Johan David Ospina Alzate <johan.ospina05@gmail.com>",
   "keywords": [
-    "platzi"
+    "mediaPlayer"
   ],
   "scripts": {
     "start": "live-server"
